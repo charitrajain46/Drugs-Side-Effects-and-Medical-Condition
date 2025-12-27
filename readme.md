@@ -146,16 +146,7 @@ This project strengthened practical understanding of:
 - Feature engineering techniques
 - Analytical thinking and visualization
 - Preparing datasets for ML pipelines
-
----
-
-## 🔗 Reference
-
-- Drugs.com  
-- Kaggle Healthcare Datasets  
-- Project Inspiration:  
-  https://github.com/dhyutin/Drugs-Side-Effects-and-Medical-Conditions-Analysis
-
+  
 ---
 
 ## 👤 Author
