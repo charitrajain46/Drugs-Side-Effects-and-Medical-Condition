@@ -153,7 +153,9 @@ This project strengthened practical understanding of:
 
 **Charitra Jain**  
 MCA | Aspiring Data Analyst & Data Scientist  
-Python | SQL | EDA | Machine Learning  
+Python | SQL | EDA | Machine Learning 
+
+🔗 LinkedIn: https://www.linkedin.com/in/charitra-jain-8271b4240/
 
 ---
 
